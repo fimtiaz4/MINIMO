@@ -144,17 +144,16 @@ p{
 .newsletter{
 	display: flow-root;
 	background-color: #f0f0f0;
-	padding: 60px 0px 100px 0px;
+	padding: 120px 0px 130px 0px;
 	margin: 20px 0px 100px 0px;
 }
 
 .newsletter h1{
 	font-family: 'Playfair Display', serif;
 	font-weight: 400;
-	font-size: 38px;
-	margin-top: 30px;
+	font-size: 42px;
 	color: #333333;
-	margin: 30px;
+	margin: 45px 0px;
 }
 
 .subscribe{
@@ -183,7 +182,7 @@ p{
 
 .button{
 	text-align: center;
-	margin-top: 150px
+	margin-top: 100px
 }
 
 .load_more{
@@ -263,8 +262,5 @@ li a i:hover{
 	background-color: #f0f0f0;
 	display: flow-root;
 	padding: 50px 0px;
-}
-
-.blank{
-	height: 1800px;
+	margin-top: 250px;
 }
